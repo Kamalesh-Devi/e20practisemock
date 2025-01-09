@@ -4,7 +4,7 @@ read a
 if [ $a -lt 13 ];then
 echo "Child"
 elif [ $a -ge 13 -a $a -le 19 ];then
-echo "Teenager"
+echo "Teenage"
 else 
 echo "Adult"
 fi
